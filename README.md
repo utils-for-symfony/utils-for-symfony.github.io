@@ -104,3 +104,8 @@ Documentation for symfony-util
     - TEST_LINT=`true`
     - SENSIO_SECURITY=`true`
 ```
+
+# See also
+* [symfony-flex-demo](https://symfony-flex-demo.github.io)
+* [travis-util](https://travis-util.github.io/)
+* [github-wiki](https://github-wiki.github.io/)
