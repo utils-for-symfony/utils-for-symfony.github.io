@@ -1,4 +1,4 @@
-# symfony-util.github.io
+# [symfony-util.github.io](https://symfony-util.github.io)
 Documentation for symfony-util
 
 ## Travis configuration (outdated)
