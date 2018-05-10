@@ -1,7 +1,7 @@
 # symfony-util.github.io
 Documentation for symfony-util
 
-## Travis configuration
+## Travis configuration (outdated)
 ```yaml
   - php: 7.1
     env:
