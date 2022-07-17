@@ -1,5 +1,5 @@
-# [symfony-util.github.io](https://symfony-util.github.io)
-Documentation for symfony-util
+# [utils-for-symfony.github.io](https://utils-for-symfony.github.io)
+Documentation for utils-for-symfony
 
 ## Travis configuration (outdated)
 ```yaml
